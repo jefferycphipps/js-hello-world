@@ -4,8 +4,8 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello! I am Jeffery Phipps.");
-console.log(17+2);
+console.log("Hello World! ");
+console.log(17);
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
